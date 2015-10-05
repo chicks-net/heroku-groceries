@@ -36,6 +36,7 @@ Return the lists that you currently have access to.
 
 #### endpoint metadata
 
+| item | details |
 | ------- | ------- |
 | Response formats | JSON |
 | Requires authentication? | Not yet! |
